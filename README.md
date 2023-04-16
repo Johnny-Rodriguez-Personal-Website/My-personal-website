@@ -1,3 +1,3 @@
 # My personal website
 
-# https://babyclaps.github.io
+# https://johnny-rodriguez-personal-website.github.io/My-personal-website/
