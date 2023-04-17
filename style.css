@@ -69,3 +69,23 @@ p {
   font-size: 1.2rem;
   line-height: 1.5;
 }
+
+/* contact form */
+form {
+  margin: auto;
+  max-width: 450px;
+  display: grid;
+}
+
+/* button */
+button {
+  background-color: tomato;
+  color: white;
+  border: none;
+  padding: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: pink;
+}
