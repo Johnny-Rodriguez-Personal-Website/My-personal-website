@@ -82,7 +82,7 @@ button {
   background-color: tomato;
   color: white;
   border: none;
-  padding: 6px;
+  padding: 0.5rem;
   cursor: pointer;
 }
 
