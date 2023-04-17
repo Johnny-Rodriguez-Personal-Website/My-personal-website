@@ -99,3 +99,8 @@ textarea {
 input {
   width: 100%;
 }
+
+.form-group:not(:last-of-type) {
+  margin-bottom: 0.5rem;
+  
+}
